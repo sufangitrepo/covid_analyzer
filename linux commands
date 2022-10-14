@@ -1,0 +1,106 @@
+to unzip the .tgz file 
+   go to the directorey where file exisit 
+   and run this command    'tar xzf "file name with extension"'
+   
+   
+   
+   
+   token for github
+   
+sufyangitrepo # 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
+
+
+sufangitrepo # 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
+
+
+phrase key for metamask:   
+        #  portion open quarter bless arrive police butter bundle split route farm quantum
+
+bitbucket #
+app password
+FznxBAzGhYGpPWT8agdu
+
+
+		
+
+https://www.youtube.com/watch?v=cQtCCPMbAFU
+
+
+
+
+
+
+?>>>>>>>>>>>>>>>>>>>>>>>>>>>Creating virtual Environment>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+   
+   It is best option to use virtual environment for creating projects in python 
+   because it isolates all dependencies of that projects from the system 
+   its mean all packages that we use for project not installed on system but seperate 
+   on virtual environment 
+   
+   for example i want to create django project for that i will install django pkg
+   so for this purpose first i create virtual environment
+   these are simple steps for creating venv
+   
+   
+   1.   choose directory where you want to create virtual envireonment like c/any folder /d or any other directory 
+   2.   navigate to that directory 
+        and run this command for installing virtual env   
+        
+        <<<<<<<"""  sudo apt install python3-venv """>>>>>>>>>>>>>>>
+        
+   3. now create virtual environment after installing the venv using this command
+      
+       <<<<<<<<<<<<   python3 -m venv 'name_of_venv'   >>>>>>>>>>>>
+      
+   4  after creating virtual envireonment you should activate the virtual environment 
+         
+         <<<<<<<<<<<  source/'name_of_venv'/bin/activate   >>>>>>>>>>>>>>>
+                         or
+         <<<<<<<<<<<  . 'name_of_venv'/bin/activate   >>>>>>>>>>>>>>>                
+                         
+        
+        after you will goes to the virtual environment like this 
+       
+       """ (my_env) muhammadsufyan@A003-00336:~/python_django$  """
+       
+   5. after that you can install any packag it will be installed only in this virtual envireonment
+        
+
+          
+          -------------------------------------------------------------------------------------------------------------------------------------------------
+          
+          
+          story build krni ha jb appi ka demo de rhe hoge 
+          
+          pehla client side se start krna ha k client aye ga aur authetacte krwae ga
+          phir wo products ko view kre ga is me product module ka get wali api 
+          phir wo customer products ko cart me add kre ga pehle aik cart create kre ga is me cart module wali api ka demo de dena
+          phir last me order wale module pe le ana us me user cart ka bad order kre ga us me order wali apis ka demo dena ha
+          phir jb client side end ho jae 
+          
+          
+          =========================================================
+          phir mene admin side pe le ana ha 
+          k products add kre ga admin 
+          kio k 3 rule ho skte ha admin sirf product ko add kre ga
+          is ka bad orderr wale pe le ana aur orders k fetch krne wali apis ka demo  dekhana ha 
+          
+          
+          
+          
+          
+          
+          
+          My Trainig story 
+          team collaboration in presentation skils team building activities , knowledge sharing session
+          
+          
+          
+          
+          
+          
+       
+       
+   
+
+             
