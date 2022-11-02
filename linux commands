@@ -49,6 +49,7 @@ sudo apt install python3-pip
    these are simple steps for creating venv
    
    
+   
    1.   choose directory where you want to create virtual envireonment like c/any folder /d or any other directory 
    2.   navigate to that directory 
         and run this command for installing virtual env   
