@@ -31,7 +31,9 @@ FznxBAzGhYGpPWT8agdu
 https://www.youtube.com/watch?v=cQtCCPMbAFU
 
 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Installing PIP >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
+sudo apt install python3-pip
 
 
 
