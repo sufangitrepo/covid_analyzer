@@ -72,6 +72,11 @@ sudo apt install python3-pip
    5. after that you can install any packag it will be installed only in this virtual envireonment
         
 
+
+https://www.digitalocean.com/community/tutorials/how-to-set-up-django-with-postgres-nginx-and-gunicorn-on-ubuntu-2
+
+blog for setting server on amazon for django project
+
           
           -------------------------------------------------------------------------------------------------------------------------------------------------
           
